@@ -1,0 +1,1042 @@
+{
+    "nodes": [
+        {
+            "id": "2030",
+            "url": "http://zero2030.net",
+            "height": 15,
+            "fill": {
+                "src": "https://github.com/zero2050net/uk/blob/main/favicon.png?raw=true"
+            }
+        },
+        {
+            "id": "2040",
+            "url": "http://zero2040.net",
+            "height": 15,
+            "fill": {
+                "src": "https://github.com/zero2050net/uk/blob/main/favicon.png?raw=true"
+            }
+        },
+        {
+            "id": "2050",
+            "url": "http://zero2050.net",
+            "height": 15,
+            "fill": {
+                "src": "https://github.com/zero2050net/uk/blob/main/favicon.png?raw=true"
+            }
+        },
+        {
+            "id": "uk",
+            "url": "http://o.zro.ec/uk",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/uk/blob/main/uk.png?raw=true"
+            }
+        },
+        {
+            "id": "es",
+            "url": "http://es.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/es/blob/main/es.png?raw=true"
+            }
+        },
+        {
+            "id": "jp",
+            "url": "http://jp.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/jp/blob/main/jp.png?raw=true"
+            }
+        },
+        {
+            "id": "kr",
+            "url": "http://kr.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/kr/blob/main/kr.png?raw=true"
+            }
+        },
+        {
+            "id": "mx",
+            "url": "http://mx.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/mx/blob/main/mx.png?raw=true"
+            }
+        },
+        {
+            "id": "ca",
+            "url": "http://ca.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/ca/blob/main/ca.png?raw=true"
+            }
+        },
+        {
+            "id": "us",
+            "url": "http://us.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/us/blob/main/us.png?raw=true"
+            }
+        },
+        {
+            "id": "ag",
+            "url": "http://ag.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/ag/blob/main/ag.png?raw=true"
+            }
+        },
+        {
+            "id": "ao",
+            "url": "http://ao.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/ao/blob/main/ao.png?raw=true"
+            }
+        },
+        {
+            "id": "ar",
+            "url": "http://ar.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/ar/blob/main/ar.png?raw=true"
+            }
+        },
+        {
+            "id": "ad",
+            "url": "http://ad.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/ad/blob/main/ad.png?raw=true"
+            }
+        },
+        {
+            "id": "bb",
+            "url": "http://bb.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/bb/blob/main/bb.png?raw=true"
+            }
+        },
+        {
+            "id": "bd",
+            "url": "http://bd.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/bd/blob/main/bd.png?raw=true"
+            }
+        },
+        {
+            "id": "bf",
+            "url": "http://bf.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/bf/blob/main/bf.png?raw=true"
+            }
+        },
+        {
+            "id": "bi",
+            "url": "http://bi.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/bi/blob/main/bi.png?raw=true"
+            }
+        },
+        {
+            "id": "bj",
+            "url": "http://bj.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/bj/blob/main/bj.png?raw=true"
+            }
+        },
+        {
+            "id": "br",
+            "url": "http://br.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/br/blob/main/br.png?raw=true"
+            }
+        },
+        {
+            "id": "bs",
+            "url": "http://bs.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/bs/blob/main/bs.png?raw=true"
+            }
+        },
+        {
+            "id": "bz",
+            "url": "http://bz.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/bz/blob/main/bz.png?raw=true"
+            }
+        },
+        {
+            "id": "cd",
+            "url": "http://cd.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/cd/blob/main/cd.png?raw=true"
+            }
+        },
+        {
+            "id": "cf",
+            "url": "http://cf.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/cf/blob/main/cf.png?raw=true"
+            }
+        },
+        {
+            "id": "uy",
+            "url": "http://uy.zero2030.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2030net/uy/blob/main/uy.png?raw=true"
+            }
+        },
+        {
+            "id": "is",
+            "url": "http://is.zero2040.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2040net/is/blob/main/is.png?raw=true"
+            }
+        },
+        {
+            "id": "dj",
+            "url": "http://dj.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/dj/blob/main/dj.png?raw=true"
+            }
+        },
+        {
+            "id": "dm",
+            "url": "http://dm.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/dm/blob/main/dm.png?raw=true"
+            }
+        },
+        {
+            "id": "do",
+            "url": "http://do.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/do/blob/main/do.png?raw=true"
+            }
+        },
+        {
+            "id": "ec",
+            "url": "http://ec.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/ec/blob/main/ec.png?raw=true"
+            }
+        },
+        {
+            "id": "so",
+            "url": "http://so.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/so/blob/main/so.png?raw=true"
+            }
+        },
+        {
+            "id": "st",
+            "url": "http://st.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/st/blob/main/st.png?raw=true"
+            }
+        },
+        {
+            "id": "td",
+            "url": "http://td.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/td/blob/main/td.png?raw=true"
+            }
+        },
+        {
+            "id": "tg",
+            "url": "http://tg.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/tg/blob/main/tg.png?raw=true"
+            }
+        },
+        {
+            "id": "tl",
+            "url": "http://tl.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/tl/blob/main/tl.png?raw=true"
+            }
+        },
+        {
+            "id": "gm",
+            "url": "http://gm.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/gm/blob/main/gm.png?raw=true"
+            }
+        },
+        {
+            "id": "gy",
+            "url": "http://gy.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/gy/blob/main/gy.png?raw=true"
+            }
+        },
+        {
+            "id": "ht",
+            "url": "http://ht.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/ht/blob/main/ht.png?raw=true"
+            }
+        },
+        {
+            "id": "jm",
+            "url": "http://jm.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/jm/blob/main/jm.png?raw=true"
+            }
+        },
+        {
+            "id": "eu",
+            "url": "http://eu.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/eu/blob/main/eu.png?raw=true"
+            }
+        },
+        {
+            "id": "fj",
+            "url": "http://fj.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/fj/blob/main/fj.png?raw=true"
+            }
+        },
+        {
+            "id": "fm",
+            "url": "http://fm.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/fm/blob/main/fm.png?raw=true"
+            }
+        },
+        {
+            "id": "gd",
+            "url": "http://gd.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/gd/blob/main/gd.png?raw=true"
+            }
+        },
+        {
+            "id": "kh",
+            "url": "http://kh.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/kh/blob/main/kh.png?raw=true"
+            }
+        },
+        {
+            "id": "ki",
+            "url": "http://ki.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/ki/blob/main/ki.png?raw=true"
+            }
+        },
+        {
+            "id": "km",
+            "url": "http://km.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/km/blob/main/km.png?raw=true"
+            }
+        },
+        {
+            "id": "kn",
+            "url": "http://kn.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/kn/blob/main/kn.png?raw=true"
+            }
+        },
+        {
+            "id": "la",
+            "url": "http://la.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/la/blob/main/la.png?raw=true"
+            }
+        },
+        {
+            "id": "lb",
+            "url": "http://lb.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/lb/blob/main/lb.png?raw=true"
+            }
+        },
+        {
+            "id": "lc",
+            "url": "http://lc.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/lc/blob/main/lc.png?raw=true"
+            }
+        },
+        {
+            "id": "lr",
+            "url": "http://lr.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/lr/blob/main/lr.png?raw=true"
+            }
+        },
+        {
+            "id": "ls",
+            "url": "http://ls.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/ls/blob/main/ls.png?raw=true"
+            }
+        },
+        {
+            "id": "mc",
+            "url": "http://mc.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/mc/blob/main/mc.png?raw=true"
+            }
+        },
+        {
+            "id": "mg",
+            "url": "http://mg.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/mg/blob/main/mg.png?raw=true"
+            }
+        },
+        {
+            "id": "mh",
+            "url": "http://mh.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/mh/blob/main/mh.png?raw=true"
+            }
+        },
+        {
+            "id": "mm",
+            "url": "http://mm.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/mm/blob/main/mm.png?raw=true"
+            }
+        },
+        {
+            "id": "mr",
+            "url": "http://mr.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/mr/blob/main/mr.png?raw=true"
+            }
+        },
+        {
+            "id": "mu",
+            "url": "http://mu.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/mu/blob/main/mu.png?raw=true"
+            }
+        },
+        {
+            "id": "mw",
+            "url": "http://mw.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/mw/blob/main/mw.png?raw=true"
+            }
+        },
+        {
+            "id": "mz",
+            "url": "http://mz.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/mz/blob/main/mz.png?raw=true"
+            }
+        },
+        {
+            "id": "na",
+            "url": "http://na.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/na/blob/main/na.png?raw=true"
+            }
+        },
+        {
+            "id": "ne",
+            "url": "http://ne.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/ne/blob/main/ne.png?raw=true"
+            }
+        },
+        {
+            "id": "ni",
+            "url": "http://ni.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/ni/blob/main/ni.png?raw=true"
+            }
+        },
+        {
+            "id": "no",
+            "url": "http://no.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/no/blob/main/no.png?raw=true"
+            }
+        },
+        {
+            "id": "np",
+            "url": "http://np.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/np/blob/main/np.png?raw=true"
+            }
+        },
+        {
+            "id": "nr",
+            "url": "http://nr.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/nr/blob/main/nr.png?raw=true"
+            }
+        },
+        {
+            "id": "nu",
+            "url": "http://nu.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/nu/blob/main/nu.png?raw=true"
+            }
+        },
+        {
+            "id": "nz",
+            "url": "http://nz.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/nz/blob/main/nz.png?raw=true"
+            }
+        },
+        {
+            "id": "pa",
+            "url": "http://pa.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/pa/blob/main/pa.png?raw=true"
+            }
+        },
+        {
+            "id": "pe",
+            "url": "http://pe.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/pe/blob/main/pe.png?raw=true"
+            }
+        },
+        {
+            "id": "pg",
+            "url": "http://pg.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/pg/blob/main/pg.png?raw=true"
+            }
+        },
+        {
+            "id": "pw",
+            "url": "http://pw.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/pw/blob/main/pw.png?raw=true"
+            }
+        },
+        {
+            "id": "rw",
+            "url": "http://rw.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/rw/blob/main/rw.png?raw=true"
+            }
+        },
+        {
+            "id": "sb",
+            "url": "http://sb.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/sb/blob/main/sb.png?raw=true"
+            }
+        },
+        {
+            "id": "sc",
+            "url": "http://sc.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/sc/blob/main/sc.png?raw=true"
+            }
+        },
+        {
+            "id": "sd",
+            "url": "http://sd.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/sd/blob/main/sd.png?raw=true"
+            }
+        },
+        {
+            "id": "sl",
+            "url": "http://sl.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/sl/blob/main/sl.png?raw=true"
+            }
+        },
+        {
+            "id": "vc",
+            "url": "http://vc.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/vc/blob/main/vc.png?raw=true"
+            }
+        },
+        {
+            "id": "vu",
+            "url": "http://vu.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/vu/blob/main/vu.png?raw=true"
+            }
+        },
+        {
+            "id": "ws",
+            "url": "http://ws.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/ws/blob/main/ws.png?raw=true"
+            }
+        },
+        {
+            "id": "za",
+            "url": "http://za.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/za/blob/main/za.png?raw=true"
+            }
+        },
+        {
+            "id": "zm",
+            "url": "http://zm.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/zm/blob/main/zm.png?raw=true"
+            }
+        },
+        {
+            "id": "to",
+            "url": "http://to.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/to/blob/main/to.png?raw=true"
+            }
+        },
+        {
+            "id": "tt",
+            "url": "http://tt.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/tt/blob/main/tt.png?raw=true"
+            }
+        },
+        {
+            "id": "tz",
+            "url": "http://tz.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/tz/blob/main/tz.png?raw=true"
+            }
+        },
+        {
+            "id": "ug",
+            "url": "http://ug.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/ug/blob/main/ug.png?raw=true"
+            }
+        },
+        {
+            "id": "pk",
+            "url": "http://pk.zero2050.net",
+            "height": 10,
+            "fill": {
+                "src": "https://github.com/zero2050net/pk/blob/main/pk.png?raw=true"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "from": "2030",
+            "to": "uy"
+        },
+        {
+            "from": "2040",
+            "to": "is"
+        },
+        {
+            "from": "2050",
+            "to": "uk"
+        },
+        {
+            "from": "2050",
+            "to": "es"
+        },
+        {
+            "from": "2050",
+            "to": "jp"
+        },
+        {
+            "from": "2050",
+            "to": "kr"
+        },
+        {
+            "from": "2050",
+            "to": "mx"
+        },
+        {
+            "from": "2050",
+            "to": "ca"
+        },
+        {
+            "from": "2050",
+            "to": "us"
+        },
+        {
+            "from": "2050",
+            "to": "ag"
+        },
+        {
+            "from": "2050",
+            "to": "ao"
+        },
+        {
+            "from": "2050",
+            "to": "ar"
+        },
+        {
+            "from": "2050",
+            "to": "ad"
+        },
+        {
+            "from": "2050",
+            "to": "bb"
+        },
+        {
+            "from": "2050",
+            "to": "bd"
+        },
+        {
+            "from": "2050",
+            "to": "bf"
+        },
+        {
+            "from": "2050",
+            "to": "bi"
+        },
+        {
+            "from": "2050",
+            "to": "bj"
+        },
+        {
+            "from": "2050",
+            "to": "br"
+        },
+        {
+            "from": "2050",
+            "to": "bs"
+        },
+        {
+            "from": "2050",
+            "to": "bz"
+        },
+        {
+            "from": "2050",
+            "to": "cd"
+        },
+        {
+            "from": "2050",
+            "to": "dj"
+        },
+        {
+            "from": "2050",
+            "to": "dm"
+        },
+        {
+            "from": "2050",
+            "to": "do"
+        },
+        {
+            "from": "2050",
+            "to": "ec"
+        },
+        {
+            "from": "2050",
+            "to": "so"
+        },
+        {
+            "from": "2050",
+            "to": "st"
+        },
+        {
+            "from": "2050",
+            "to": "td"
+        },
+        {
+            "from": "2050",
+            "to": "tg"
+        },
+        {
+            "from": "2050",
+            "to": "tl"
+        },
+        {
+            "from": "2050",
+            "to": "gm"
+        },
+        {
+            "from": "2050",
+            "to": "gy"
+        },
+        {
+            "from": "2050",
+            "to": "ht"
+        },
+        {
+            "from": "2050",
+            "to": "jm"
+        },
+        {
+            "from": "2050",
+            "to": "eu"
+        },
+        {
+            "from": "2050",
+            "to": "fj"
+        },
+        {
+            "from": "2050",
+            "to": "fm"
+        },
+        {
+            "from": "2050",
+            "to": "gd"
+        },
+        {
+            "from": "2050",
+            "to": "kh"
+        },
+        {
+            "from": "2050",
+            "to": "ki"
+        },
+        {
+            "from": "2050",
+            "to": "km"
+        },
+        {
+            "from": "2050",
+            "to": "kn"
+        },
+        {
+            "from": "2050",
+            "to": "la"
+        },
+        {
+            "from": "2050",
+            "to": "lb"
+        },
+        {
+            "from": "2050",
+            "to": "lc"
+        },
+        {
+            "from": "2050",
+            "to": "lr"
+        },
+        {
+            "from": "2050",
+            "to": "ls"
+        },
+        {
+            "from": "2050",
+            "to": "mc"
+        },
+        {
+            "from": "2050",
+            "to": "mg"
+        },
+        {
+            "from": "2050",
+            "to": "mh"
+        },
+        {
+            "from": "2050",
+            "to": "mm"
+        },
+        {
+            "from": "2050",
+            "to": "mr"
+        },
+        {
+            "from": "2050",
+            "to": "mu"
+        },
+        {
+            "from": "2050",
+            "to": "mw"
+        },
+        {
+            "from": "2050",
+            "to": "mz"
+        },
+        {
+            "from": "2050",
+            "to": "na"
+        },
+        {
+            "from": "2050",
+            "to": "ne"
+        },
+        {
+            "from": "2050",
+            "to": "ni"
+        },
+        {
+            "from": "2050",
+            "to": "no"
+        },
+        {
+            "from": "2050",
+            "to": "np"
+        },
+        {
+            "from": "2050",
+            "to": "nr"
+        },
+        {
+            "from": "2050",
+            "to": "nu"
+        },
+        {
+            "from": "2050",
+            "to": "nz"
+        },
+        {
+            "from": "2050",
+            "to": "pa"
+        },
+        {
+            "from": "2050",
+            "to": "pe"
+        },
+        {
+            "from": "2050",
+            "to": "pg"
+        },
+        {
+            "from": "2050",
+            "to": "pk"
+        },
+        {
+            "from": "2050",
+            "to": "pw"
+        },
+        {
+            "from": "2050",
+            "to": "rw"
+        },
+        {
+            "from": "2050",
+            "to": "sb"
+        },
+        {
+            "from": "2050",
+            "to": "sc"
+        },
+        {
+            "from": "2050",
+            "to": "sd"
+        },
+        {
+            "from": "2050",
+            "to": "sl"
+        },
+        {
+            "from": "2050",
+            "to": "vc"
+        },
+        {
+            "from": "2050",
+            "to": "vu"
+        },
+        {
+            "from": "2050",
+            "to": "ws"
+        },
+        {
+            "from": "2050",
+            "to": "za"
+        },
+        {
+            "from": "2050",
+            "to": "zm"
+        },
+        {
+            "from": "2050",
+            "to": "to"
+        },
+        {
+            "from": "2050",
+            "to": "tt"
+        },
+        {
+            "from": "2050",
+            "to": "tz"
+        },
+        {
+            "from": "2050",
+            "to": "ug"
+        },
+        {
+            "from": "2050",
+            "to": "cf"
+        },
+        {
+            "from": "eu",
+            "to": "es"
+        }
+    ]
+}

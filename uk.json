@@ -1,0 +1,762 @@
+{
+    "nodes": [
+        {
+            "id": "zero2030.net",
+            "url": "http://zero2030.net",
+            "height": 15,
+            "fill": {
+                "src": "https://github.com/zero2050net/uk/blob/main/favicon.png?raw=true"
+            }
+        },
+        {
+            "id": "zero2040.net",
+            "url": "http://zero2040.net",
+            "height": 15,
+            "fill": {
+                "src": "https://github.com/zero2050net/uk/blob/main/favicon.png?raw=true"
+            }
+        },
+        {
+            "id": "zero2050.net",
+            "url": "http://zero2050.net",
+            "height": 15,
+            "fill": {
+                "src": "https://github.com/zero2050net/uk/blob/main/favicon.png?raw=true"
+            }
+        },
+        {
+            "id": "uk",
+            "url": "http://uk.zero2050.net",
+            "height": 25,
+            "fill": {
+                "src": "https://github.com/zero2050net/uk/blob/main/uk.png?raw=true"
+            }
+        },
+        {
+            "id": "lcrca",
+            "url": "http://lcrca.zero2040.net",
+            "height": 15,
+            "fill": {
+                "src": "https://github.com/zero2040net/lcrca/blob/main/lcrca.jpeg?raw=true"
+            }
+        },
+        {
+            "id": "liverpool",
+            "url": "http://lcrca.zero2040.net",
+            "height": 15,
+            "fill": {
+                "src": "liverpool.png"
+            }
+        },
+        {
+            "id": "knowsley",
+            "url": "http://lcrca.zero2040.net",
+            "height": 15,
+            "fill": {
+                "src": "knowsley.png"
+            }
+        },
+        {
+            "id": "sefton",
+            "url": "http://lcrca.zero2040.net",
+            "height": 15,
+            "fill": {
+                "src": "sefton.png"
+            }
+        },
+        {
+            "id": "halton",
+            "url": "http://lcrca.zero2040.net",
+            "height": 15,
+            "fill": {
+                "src": "halton.png"
+            }
+        },
+        {
+            "id": "st helens",
+            "url": "http://lcrca.zero2040.net",
+            "height": 15,
+            "fill": {
+                "src": "sthelens.png"
+            }
+        },
+        {
+            "id": "wirral",
+            "url": "http://lcrca.zero2040.net",
+            "height": 15,
+            "fill": {
+                "src": "wirral.png"
+            }
+        },
+        {
+            "id": "gmca",
+            "url": "https://www.greatermanchester-ca.gov.uk/",
+            "height": 15,
+            "fill": {
+                "src": "gmca.png"
+            }
+        },
+        {
+            "id": "bolton",
+            "url": "",
+            "height": 15,
+            "fill": {
+                "src": "bolton.jpeg"
+            }
+        },
+        {
+            "id": "bury",
+            "url": "",
+            "height": 15,
+            "fill": {
+                "src": "bury.png"
+            }
+        },
+        {
+            "id": "manchester",
+            "url": "",
+            "height": 15,
+            "fill": {
+                "src": "manchester.jpeg"
+            }
+        },
+        {
+            "id": "oldham",
+            "url": "",
+            "height": 15,
+            "fill": {
+                "src": "oldham.jpeg"
+            }
+        },
+        {
+            "id": "rochdale",
+            "url": "",
+            "height": 15,
+            "fill": {
+                "src": "rochdale.png"
+            }
+        },
+        {
+            "id": "salford",
+            "url": "",
+            "height": 15,
+            "fill": {
+                "src": "salford.png"
+            }
+        },
+        {
+            "id": "stockport",
+            "url": "",
+            "height": 15,
+            "fill": {
+                "src": "stockport.jpeg"
+            }
+        },
+        {
+            "id": "tameside",
+            "url": "",
+            "height": 15,
+            "fill": {
+                "src": "tameside.jpeg"
+            }
+        },
+        {
+            "id": "trafford",
+            "url": "",
+            "height": 15,
+            "fill": {
+                "src": "trafford.png"
+            }
+        },
+        {
+            "id": "wigan",
+            "url": "",
+            "height": 15,
+            "fill": {
+                "src": "wigan.png"
+            }
+        },
+        {
+            "id": "gla",
+            "url": "",
+            "height": 15,
+            "fill": {
+                "src": "gla.png"
+            }
+        },
+        {
+	    "id": "Barking and Dagenham",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	"barking and dagenham.png"
+	    }
+        },
+	{
+	    "id": "Bexley",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+	{
+	    "id": "Brent",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+        {
+	    "id": "Brentwood",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+	{
+	    "id": "Bromley",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+        {
+	    "id": "Camden",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+	{
+	    "id": "Castle Point",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+        {
+	    "id": "City of London",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+	{
+	    "id": "Croydon",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+        {
+	    "id": "Dartford",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+	{
+	    "id": "Ealing",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+        {
+	    "id": "Enfield",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+	{
+	    "id": "Greenwich",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+        {
+	    "id": "Hackney",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+	{
+	    "id": "Haringey",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+        {
+	    "id": "Harrow",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+	{
+	    "id": "Havering",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+	{
+	    "id": "Islington",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+        {
+	    "id": "Kensington and Chelsea",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+	{
+	    "id": "Kingston",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+        {
+	    "id": "Lambeth",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+	{
+	    "id": "Lewisham",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+        {
+	    "id": "Merton",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+	{
+	    "id": "Newham",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+        {
+	    "id": "Reading",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+	{
+	    "id": "Redbridge",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+        {
+	    "id": "Reigate and Banstead",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+	{
+	    "id": "Richmond",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	"richmond.jpeg"
+	    }
+        },
+	{
+	    "id": "Sevenoaks",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+        {
+	    "id": "Southwark",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+	{
+	    "id": "Sutton",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+        {
+	    "id": "Thurrock",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+	{
+	    "id": "Tower Hamlets",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+	{
+	    "id": "Wandsworth",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        },
+	{
+	    "id": "Westminster",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	"westminster.png"
+	    }
+        },
+        {
+	    "id": "Windsor and Maidenhead",
+	    "url": "",
+	    "height": 15,
+	    "fill": {
+		"src":	""
+	    }
+        }
+    ],
+    "edges": [
+        {
+            "from": "uk",
+            "to": "lcrca"
+        },
+        {
+            "from": "zero2040.net",
+            "to": "lcrca"
+        },
+        {
+            "from": "lcrca",
+            "to": "liverpool"
+        },
+        {
+            "from": "lcrca",
+            "to": "sefton"
+        },
+        {
+            "from": "sefton",
+            "to": "zero2030.net"
+        },
+        {
+            "from": "lcrca",
+            "to": "knowsley"
+        },
+        {
+            "from": "knowsley",
+            "to": "zero2040.net"
+        },
+        {
+            "from": "lcrca",
+            "to": "wirral"
+        },
+        {
+            "from": "wirral",
+            "to": "zero2030.net"
+        },
+        {
+            "from": "lcrca",
+            "to": "st helens"
+        },
+        {
+            "from": "st helens",
+            "to": "zero2040.net"
+        },
+        {
+            "from": "lcrca",
+            "to": "halton"
+        },
+        {
+            "from": "zero2050.net",
+            "to": "uk"
+        },
+        {
+            "from": "gmca",
+            "to": "zero2040.net"
+        },
+        {
+            "from": "gmca",
+            "to": "bolton"
+        },
+        {
+            "from": "bolton",
+            "to": "zero2030.net"
+        },
+        {
+            "from": "bury",
+            "to": "gmca"
+        },
+        {
+            "from": "bury",
+            "to": "zero2040.net"
+        },
+        {
+            "from": "manchester",
+            "to": "gmca"
+        },
+        {
+            "from": "manchester",
+            "to": "zero2040.net"
+        },
+        {
+            "from": "gmca",
+            "to": "oldham"
+        },
+        {
+            "from": "gmca",
+            "to": "rochdale"
+        },
+        {
+            "from": "gmca",
+            "to": "salford"
+        },
+        {
+            "from": "gmca",
+            "to": "stockport"
+        },
+        {
+            "from": "zero2040.net",
+            "to": "stockport"
+        },
+        {
+            "from": "gmca",
+            "to": "tameside"
+        },
+        {
+            "from": "gmca",
+            "to": "trafford"
+        },
+        {
+            "from": "zero2040.net",
+            "to": "trafford"
+        },
+        {
+            "from": "gmca",
+            "to": "wigan"
+        },
+        {
+            "from": "gmca",
+            "to": "uk"
+        },
+        {
+            "from": "gla",
+            "to": "uk"
+        },
+        {
+            "from": "gla",
+            "to": "zero2050.net"
+        },
+	{
+            "from": "gla",
+            "to": "Barking and Dagenham"
+        },
+	{
+            "from": "gla",
+            "to": "Bexley"
+        },
+	{
+            "from": "gla",
+            "to": "Brent"
+        },
+	{
+            "from": "gla",
+            "to": "Brentwood"
+        },
+	{
+            "from": "gla",
+            "to": "Bromley"
+        },
+	{
+            "from": "gla",
+            "to": "Camden"
+        },
+	{
+            "from": "gla",
+            "to": "Castlepoint"
+        },
+	{
+            "from": "gla",
+            "to": "City of London"
+        },
+	{
+            "from": "gla",
+            "to": "Croydon"
+        },
+	{
+            "from": "gla",
+            "to": "Dartford"
+        },
+	{
+            "from": "gla",
+            "to": "Ealing"
+        },
+	{
+            "from": "gla",
+            "to": "Enfield"
+        },
+	{
+            "from": "gla",
+            "to": "Greenwich"
+        },
+	{
+            "from": "gla",
+            "to": "Hackney"
+        },
+	{
+            "from": "gla",
+            "to": "Haringey"
+        },
+	{
+            "from": "gla",
+            "to": "Harrow"
+        },
+	{
+            "from": "gla",
+            "to": "Havering"
+        },
+	{
+            "from": "gla",
+            "to": "Islington"
+        },
+	{
+            "from": "gla",
+            "to": "Kensington and Chelsea"
+        },
+	{
+            "from": "gla",
+            "to": "Kingston"
+        },
+	{
+            "from": "gla",
+            "to": "Lambeth"
+        },
+	{
+            "from": "gla",
+            "to": "Lewisham"
+        },
+	{
+            "from": "gla",
+            "to": "Merton"
+        },
+	{
+            "from": "gla",
+            "to": "Newham"
+        },
+	{
+            "from": "gla",
+            "to": "Reading"
+        },
+	{
+            "from": "gla",
+            "to": "Redbridge"
+        },
+	{
+            "from": "gla",
+            "to": "Reigate and Banstead"
+        },
+	{
+            "from": "gla",
+            "to": "Richmond"
+        },
+	{
+            "from": "zero2030.net",
+            "to": "Richmond"
+        },
+	{
+            "from": "gla",
+            "to": "Sevenoaks"
+        },
+	{
+            "from": "gla",
+            "to": "Southwark"
+        },
+	{
+            "from": "gla",
+            "to": "Sutton"
+        },
+	{
+            "from": "gla",
+            "to": "Thurrock"
+        },
+	{
+            "from": "gla",
+            "to": "Tower Hamlets"
+        },
+	{
+            "from": "gla",
+            "to": "Wandsworth"
+        },
+	{
+            "from": "gla",
+            "to": "Westminster"
+        },
+	{
+            "from": "zero2040.net",
+            "to": "Westminster"
+        },
+	{
+            "from": "gla",
+            "to": "Windsor and Maidenhead"
+	},
+	{
+            "from": "gla",
+            "to": "Castle Point"
+	}
+    ]
+}
